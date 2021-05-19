@@ -16,7 +16,7 @@
         <repository>
             <id>github</id>
             <name>Maventest</name>
-            <url>https://maven.pkg.github.com/c-anikethreddy/maventest</url>
+            <url>https://maven.pkg.github.com/anikethreddy-c/maventest</url>
         </repository>
     </distributionManagement>
     <developers>
